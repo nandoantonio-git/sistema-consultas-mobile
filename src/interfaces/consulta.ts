@@ -8,4 +8,5 @@ export interface Consulta {
   data: Date;
   valor: number;
   status: StatusConsulta;
-  observacoes?: string;}
+  observacoes?: string;
+}
